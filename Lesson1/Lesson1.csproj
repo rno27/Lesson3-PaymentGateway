@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="Order.cs" />
+    <Content Include="Customer.cs" />
+    <Content Include="Product.cs" />
+    <Content Include="OrderEntry.cs" />
+    <Content Include="Stock.cs" />
+    <Content Include="StockEntry.cs" />
+    <Content Include="DataRepository.cs" />
+    <Content Include="Seller.cs" />
+    <Content Include="ConsoleMenuController.cs" />
+    <Content Include="OrderSummary.cs" />
+    <Content Include="Menu.cs" />
+    <Content Include="MenuItem.cs" />
+  </ItemGroup>
+</Project>
