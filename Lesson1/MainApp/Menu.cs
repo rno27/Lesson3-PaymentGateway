@@ -32,7 +32,7 @@ namespace Lesson1.UI
                 menuItems[key].RenderItem();
             }
 
-            menuItems[0].RenderItem();
+            //menuItems[0].RenderItem();
 
         }
 
@@ -49,7 +49,7 @@ namespace Lesson1.UI
         {
             continueMenu = true;
             menuItems = new Dictionary<int, MenuItem>();
-            SetMenuItem(0, "Back", () => continueMenu = false );
+            //SetMenuItem(0, "Back", () => continueMenu = false );
         }
 
         
@@ -66,7 +66,8 @@ namespace Lesson1.UI
         public void SetMenuItem(int shortcutKey, string message, Menu subMenu, Action actionToPerform)
         {
             menuItems[shortcutKey] = new MenuItem {ActivationNumber = shortcutKey, TextMessage = message, SubMenu = subMenu, ActionToExecute = actionToPerform };   
-        }        
+        }   
+             
 
         public void EnterMenu()
         {

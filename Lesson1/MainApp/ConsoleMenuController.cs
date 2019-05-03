@@ -10,6 +10,9 @@ namespace Lesson1.UI
     {
 
         Menu mainMenu = new Menu();
+        Menu newOrderMenu = new Menu();
+        Menu newCustomerMenu = new Menu();
+
         public CustomerOrderController orderController;
         public readonly DataRepository repository;
         public Customer LoggedInCustomer = new Customer();
@@ -18,6 +21,7 @@ namespace Lesson1.UI
         private PaymentContainer container = new PaymentContainer();
         List<PaymentPlugin> PaymentPlugins = new List<PaymentPlugin>();    
 
+        
         public void HandlePayment(){
             payment.InitTranzaction();
         }
@@ -205,7 +209,7 @@ namespace Lesson1.UI
             return qty;
         }
 
-        private void HandleFinalizeOrder(Customer customer)
+        public void HandleFinalizeOrder(Customer customer)
         {
             orderController.FinalizeOrder(customer);
         }
@@ -280,12 +284,17 @@ namespace Lesson1.UI
             PaymentPlugins.Add(PaymentPlugin);
         }
 
+        public void HandleFinalizePayment(){
+            paymentMenu.continueMenu = false;
+            newOrderMenu.continueMenu = false;
+            
+        }
+
         public void Initialize()
         {   
 
             Menu newCustomerMenu = new Menu();
             Menu newSellerMenu = new Menu();
-            Menu newOrderMenu = new Menu();
 
  
             mainMenu.SetMenuItem(1, "Seller accout", newCustomerMenu, () => HandleCustomerLogin());
@@ -297,9 +306,10 @@ namespace Lesson1.UI
 
             newOrderMenu.SetMenuItem(1, "Add product", () => HandleAddNewProduct(LoggedInCustomer));
             newOrderMenu.SetMenuItem(2, "Remove product from order", () => HandleRemoveProduct(LoggedInCustomer));
-            newOrderMenu.SetMenuItem(3, "Finalize Order",paymentMenu); 
+            newOrderMenu.SetMenuItem(3, "Finalize Order",paymentMenu, () => HandleFinalizePayment()); 
             newOrderMenu.SetMenuItem(4, "Cancel Order",newCustomerMenu, () => orderController.CancelOrder(LoggedInCustomer)); 
 
+            paymentMenu.SetMenuItem(0, "Back", newOrderMenu);
 
             newSellerMenu.SetMenuItem(1, "Accept Order",() => HandleRemoveProduct(LoggedInCustomer));
             newSellerMenu.SetMenuItem(2, "Modify Order", () => HandleRemoveProduct(LoggedInCustomer));

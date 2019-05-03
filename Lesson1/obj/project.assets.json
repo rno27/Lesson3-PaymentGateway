@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renato.ivanescu\\Desktop\\CustomerApp\\Lesson1\\Lesson1\\Lesson1.csproj",
+      "projectUniqueName": "C:\\Users\\renato.ivanescu\\AppData\\Local\\GitHubDesktop\\app-1.6.5\\CUsersrenato.ivanescuDesktopCustomerAppLesson1Lesson1\\Lesson3-Dynamic-Loading-Support\\Lesson1\\Lesson1.csproj",
       "projectName": "Lesson1",
-      "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\CustomerApp\\Lesson1\\Lesson1\\Lesson1.csproj",
+      "projectPath": "C:\\Users\\renato.ivanescu\\AppData\\Local\\GitHubDesktop\\app-1.6.5\\CUsersrenato.ivanescuDesktopCustomerAppLesson1Lesson1\\Lesson3-Dynamic-Loading-Support\\Lesson1\\Lesson1.csproj",
       "packagesPath": "C:\\Users\\renato.ivanescu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renato.ivanescu\\Desktop\\CustomerApp\\Lesson1\\Lesson1\\obj\\",
+      "outputPath": "C:\\Users\\renato.ivanescu\\AppData\\Local\\GitHubDesktop\\app-1.6.5\\CUsersrenato.ivanescuDesktopCustomerAppLesson1Lesson1\\Lesson3-Dynamic-Loading-Support\\Lesson1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
