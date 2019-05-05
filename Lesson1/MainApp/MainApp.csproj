@@ -9,6 +9,7 @@
     <Content Include="MenuItem.cs" />
     <Content Include="MenuController.cs" />
     <Content Include="Menu.cs" />
+    <Content Include="PaymentPluginManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Abstractions\Abstractions.csproj" />
