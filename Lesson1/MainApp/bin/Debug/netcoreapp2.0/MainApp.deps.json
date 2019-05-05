@@ -9,6 +9,7 @@
       "MainApp/1.0.0": {
         "dependencies": {
           "Abstractions": "1.0.0",
+          "BankPayment": "1.0.0",
           "Common": "1.0.0",
           "OnlineShopModel": "1.0.0",
           "PayPalMethod": "1.0.0"
@@ -20,6 +21,15 @@
       "Abstractions/1.0.0": {
         "runtime": {
           "Abstractions.dll": {}
+        }
+      },
+      "BankPayment/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "OnlineShopModel": "1.0.0"
+        },
+        "runtime": {
+          "BankPayment.dll": {}
         }
       },
       "Common/1.0.0": {
@@ -53,6 +63,11 @@
       "sha512": ""
     },
     "Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankPayment/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

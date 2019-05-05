@@ -4,8 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="PayPal.cs" />
-    <Content Include="PayPalPlugin.cs" />
+    <Content Include="BankPay.cs" />
+    <Content Include="BankPayPlugin.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Common\Common.csproj" />
@@ -13,5 +13,4 @@
   <ItemGroup>
     <ProjectReference Include="..\..\OnlineShopModel\OnlineShopModel.csproj" />
   </ItemGroup>
- 
 </Project>

@@ -3,6 +3,7 @@ using Common;
 using Abstractions;
 using Lesson1;
 
+
  namespace PaymentMethod{
 
      public class PayPal: PaymentProcessor,PaymentInfo{
@@ -16,7 +17,7 @@ using Lesson1;
             }
 
             public void CallBackFunction(){
-              
+                
             }
             public void DisplayTransactionDetails(){
                 Console.WriteLine("Success payment!");

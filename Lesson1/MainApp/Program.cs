@@ -17,12 +17,11 @@ namespace Lesson3.UI
 
             ConsoleMenuController menuController = new ConsoleMenuController(repository);
             menuController.Initialize();
-            //BankPayPlugin bk = new BankPayPlugin();
+            BankPayPlugin bk = new BankPayPlugin();
             PayPallPlugin pl = new PayPallPlugin();
-            //menuController.AddAvailableShape(bk);
+            menuController.AddAvailableShape(bk);
             menuController.AddAvailableShape(pl);
             menuController.EnterMainMenu();
-            
         }
     }
 }

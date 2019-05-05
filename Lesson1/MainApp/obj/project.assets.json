@@ -207,6 +207,20 @@
           "bin/placeholder/Abstractions.dll": {}
         }
       },
+      "BankPayment/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Common": "1.0.0",
+          "OnlineShopModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BankPayment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankPayment.dll": {}
+        }
+      },
       "Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -721,6 +735,11 @@
       "path": "../Abstractions/Abstractions.csproj",
       "msbuildProject": "../Abstractions/Abstractions.csproj"
     },
+    "BankPayment/1.0.0": {
+      "type": "project",
+      "path": "../PaymentsMethods/BankPayment/BankPayment.csproj",
+      "msbuildProject": "../PaymentsMethods/BankPayment/BankPayment.csproj"
+    },
     "Common/1.0.0": {
       "type": "project",
       "path": "../Common/Common.csproj",
@@ -740,6 +759,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Abstractions >= 1.0.0",
+      "BankPayment >= 1.0.0",
       "Common >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "OnlineShopModel >= 1.0.0",
@@ -782,6 +802,9 @@
             },
             "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj": {
               "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj"
+            },
+            "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\BankPayment\\BankPayment.csproj": {
+              "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\BankPayment\\BankPayment.csproj"
             },
             "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj": {
               "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj"

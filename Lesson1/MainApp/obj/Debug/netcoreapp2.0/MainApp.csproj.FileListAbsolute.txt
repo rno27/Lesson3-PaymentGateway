@@ -18,3 +18,5 @@ C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\MainApp\bin\Debug
 C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.csproj.CopyComplete
 C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.dll
 C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\MainApp\bin\Debug\netcoreapp2.0\BankPayment.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\MainApp\bin\Debug\netcoreapp2.0\BankPayment.pdb
