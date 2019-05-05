@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="MenuItem.cs" />
+    <Content Include="MenuController.cs" />
+    <Content Include="Menu.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abstractions\Abstractions.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShopModel\OnlineShopModel.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentsMethods\BankPayment\BankPayment.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentsMethods\PayPalMethod\PayPalMethod.csproj" />
+  </ItemGroup>
+</Project>

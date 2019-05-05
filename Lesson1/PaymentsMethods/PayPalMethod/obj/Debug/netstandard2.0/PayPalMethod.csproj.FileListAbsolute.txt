@@ -1,0 +1,16 @@
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\PayPalMethod.deps.json
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\PayPalMethod.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\PayPalMethod.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\Abstractions.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\OnlineShopModel.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\OnlineShopModel.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\bin\Debug\netstandard2.0\Abstractions.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\obj\Debug\netstandard2.0\PayPalMethod.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\obj\Debug\netstandard2.0\PayPalMethod.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\obj\Debug\netstandard2.0\PayPalMethod.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\obj\Debug\netstandard2.0\PayPalMethod.csproj.CopyComplete
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\obj\Debug\netstandard2.0\PayPalMethod.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\obj\Debug\netstandard2.0\PayPalMethod.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\PaymentsMethods\PayPalMethod\obj\Debug\netstandard2.0\PayPalMethod.csprojAssemblyReference.cache

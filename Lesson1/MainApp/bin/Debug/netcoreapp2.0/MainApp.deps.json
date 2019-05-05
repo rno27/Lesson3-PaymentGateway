@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "MainApp/1.0.0": {
+        "dependencies": {
+          "Abstractions": "1.0.0",
+          "Common": "1.0.0",
+          "OnlineShopModel": "1.0.0",
+          "PayPalMethod": "1.0.0"
+        },
+        "runtime": {
+          "MainApp.dll": {}
+        }
+      },
+      "Abstractions/1.0.0": {
+        "runtime": {
+          "Abstractions.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "dependencies": {
+          "Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Common.dll": {}
+        }
+      },
+      "OnlineShopModel/1.0.0": {
+        "runtime": {
+          "OnlineShopModel.dll": {}
+        }
+      },
+      "PayPalMethod/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "OnlineShopModel": "1.0.0"
+        },
+        "runtime": {
+          "PayPalMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineShopModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PayPalMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

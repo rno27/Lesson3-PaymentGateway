@@ -1,0 +1,9 @@
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\bin\Debug\netstandard2.0\OnlineShopModel.deps.json
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\bin\Debug\netstandard2.0\OnlineShopModel.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\bin\Debug\netstandard2.0\OnlineShopModel.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\obj\Debug\netstandard2.0\OnlineShopModel.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\obj\Debug\netstandard2.0\OnlineShopModel.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\obj\Debug\netstandard2.0\OnlineShopModel.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\obj\Debug\netstandard2.0\OnlineShopModel.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\obj\Debug\netstandard2.0\OnlineShopModel.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\OnlineShopModel\obj\Debug\netstandard2.0\OnlineShopModel.pdb

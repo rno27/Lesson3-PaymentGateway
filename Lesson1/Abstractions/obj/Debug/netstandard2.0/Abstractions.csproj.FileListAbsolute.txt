@@ -1,0 +1,9 @@
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\bin\Debug\netstandard2.0\Abstractions.deps.json
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\bin\Debug\netstandard2.0\Abstractions.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\bin\Debug\netstandard2.0\Abstractions.pdb
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\obj\Debug\netstandard2.0\Abstractions.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\obj\Debug\netstandard2.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\obj\Debug\netstandard2.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\obj\Debug\netstandard2.0\Abstractions.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\obj\Debug\netstandard2.0\Abstractions.dll
+C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Abstractions\obj\Debug\netstandard2.0\Abstractions.pdb
