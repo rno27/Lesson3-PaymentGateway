@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Lesson3.UI;
 
-namespace Lesson1.UI
+namespace Lesson3.UI
 {
     public class Menu
     {

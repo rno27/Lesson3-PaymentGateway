@@ -1,9 +1,10 @@
 using System;
 using Common;
-using Lesson1.UI;
+using Abstractions;
+using Lesson3.UI;
 using Lesson1;
 
-namespace Abstractions{
+namespace PaymentMethod{
 
     public class BankPay: PaymentProcessor,PaymentInfo {
 

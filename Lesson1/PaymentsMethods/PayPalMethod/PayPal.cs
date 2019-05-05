@@ -1,6 +1,9 @@
 using System;
 using Common;
- namespace Abstractions{
+using Abstractions;
+using Lesson1;
+
+ namespace PaymentMethod{
 
      public class PayPal: PaymentProcessor,PaymentInfo{
         private string email = "";

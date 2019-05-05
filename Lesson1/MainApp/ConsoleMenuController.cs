@@ -2,9 +2,9 @@ using System;
 using System.Linq;
 using Abstractions;
 using System.Collections.Generic;
-using Lesson2.Implementations;
+using Lesson1;
 
-namespace Lesson1.UI
+namespace Lesson3.UI
 {
     public class ConsoleMenuController
     {
@@ -16,16 +16,16 @@ namespace Lesson1.UI
         public CustomerOrderController orderController;
         public readonly DataRepository repository;
         public Customer LoggedInCustomer = new Customer();
-        BankPay payment = new BankPay();
+        //BankPay payment = new BankPay();
         Menu paymentMenu = new Menu();
         private PaymentContainer container = new PaymentContainer();
         List<PaymentPlugin> PaymentPlugins = new List<PaymentPlugin>();    
 
         
-        public void HandlePayment(){
+        /* public void HandlePayment(){
             payment.InitTranzaction();
         }
-
+        */
         public void HandleCustomerLogin(){
             int ok = 0;
             int correctUser = 0;

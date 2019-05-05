@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Abstractions;
 
-namespace Lesson2.Implementations
+namespace Lesson3.UI
 {
     public class PaymentContainer : PaymentProcessor
     {

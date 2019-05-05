@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Linq;
 using Abstractions;
-using Lesson2;
 using Common;
 using Lesson1;
+using PaymentMethod;
 
-namespace Lesson1.UI
+
+namespace Lesson3.UI
 {
     class Program
     {

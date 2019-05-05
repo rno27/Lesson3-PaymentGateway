@@ -2,7 +2,7 @@ using System;
 using Abstractions;
 using Common;
 
-namespace Lesson2
+namespace PaymentMethod
 {
     public class PayPallPlugin : GenericPlugin<PayPal>
     {
