@@ -1,10 +1,11 @@
 ﻿using System;
+using System.IO;
 using System.Linq;
 using Abstractions;
 using Common;
 using Lesson1;
 using PaymentMethod;
-
+using System.Reflection;
 
 namespace Lesson3.UI
 {
@@ -43,11 +44,11 @@ namespace Lesson3.UI
                 return;
             }
 
-            menuController.EnterMenu();
+            menuController.EnterMainMenu();
 
         }
         
-        
+
         
         
         

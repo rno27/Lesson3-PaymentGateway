@@ -9,10 +9,10 @@ using Abstractions;
 
 namespace Lesson3.UI
 {
-    public class ShapePluginManager
+    public class PaymentPluginManager
     {        
 
-        public ShapePluginManager()
+        public PaymentPluginManager()
         {
             Plugins = new List<PaymentPlugin>();
         }
