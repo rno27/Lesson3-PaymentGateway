@@ -10,3 +10,15 @@ C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Common\obj\Debug\
 C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Common\obj\Debug\netstandard2.0\Common.csproj.CopyComplete
 C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Common\obj\Debug\netstandard2.0\Common.dll
 C:\Users\Renato\Desktop\Lesson3\Lesson3-PaymentGateway\Lesson1\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\bin\Debug\netstandard2.0\Abstractions.dll
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\bin\Debug\netstandard2.0\Abstractions.pdb
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.csproj.CopyComplete
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.pdb

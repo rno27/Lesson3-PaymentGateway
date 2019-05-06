@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj": {}
+    "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\Abstractions.csproj": {
+    "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\Abstractions.csproj",
+        "projectUniqueName": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\Abstractions.csproj",
         "projectName": "Abstractions",
-        "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\Abstractions.csproj",
-        "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\obj\\",
+        "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\Abstractions.csproj",
+        "packagesPath": "C:\\Users\\renato.ivanescu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\renato.ivanescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,32 +56,34 @@
         }
       }
     },
-    "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Common\\Common.csproj": {
+    "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Common\\obj\\",
+        "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\renato.ivanescu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\renato.ivanescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\Abstractions.csproj": {
-                "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\Abstractions.csproj"
+              "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\Abstractions.csproj": {
+                "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\Abstractions.csproj"
               }
             }
           }
@@ -108,25 +112,27 @@
         }
       }
     },
-    "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj": {
+    "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj",
+        "projectUniqueName": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj",
         "projectName": "OnlineShopModel",
-        "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj",
-        "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\obj\\",
+        "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj",
+        "packagesPath": "C:\\Users\\renato.ivanescu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\renato.ivanescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -158,35 +164,37 @@
         }
       }
     },
-    "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj": {
+    "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj",
+        "projectUniqueName": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj",
         "projectName": "PayPalMethod",
-        "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj",
-        "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\PaymentsMethods\\PayPalMethod\\obj\\",
+        "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj",
+        "packagesPath": "C:\\Users\\renato.ivanescu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\PayPalMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\renato.ivanescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Common\\Common.csproj"
+              "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Common\\Common.csproj"
               },
-              "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj": {
-                "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj"
+              "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj": {
+                "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj"
               }
             }
           }

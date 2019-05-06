@@ -179,28 +179,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Renato\\.nuget\\packages\\": {},
+    "C:\\Users\\renato.ivanescu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\Abstractions.csproj",
+      "projectUniqueName": "c:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\Abstractions.csproj",
       "projectName": "Abstractions",
-      "projectPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\Abstractions.csproj",
-      "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renato\\Desktop\\Lesson3\\Lesson3-PaymentGateway\\Lesson1\\Abstractions\\obj\\",
+      "projectPath": "c:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\Abstractions.csproj",
+      "packagesPath": "C:\\Users\\renato.ivanescu\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\renato.ivanescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

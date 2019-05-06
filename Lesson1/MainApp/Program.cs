@@ -47,37 +47,6 @@ namespace Lesson3.UI
             menuController.EnterMainMenu();
 
         }
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        /* 
-        static void Main(string[] args)
-        {
-            DataRepository repository = new DataRepository();
-            repository.Initialize();
-
-            ConsoleMenuController menuController = new ConsoleMenuController(repository);
-            menuController.Initialize();
-            BankPayPlugin bk = new BankPayPlugin();
-            PayPallPlugin pl = new PayPallPlugin();
-            menuController.AddAvailableShape(bk);
-            menuController.AddAvailableShape(pl);
-            menuController.EnterMainMenu();
-        }
-        */
+    
     }
 }

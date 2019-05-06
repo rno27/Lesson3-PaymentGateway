@@ -16,20 +16,20 @@ namespace PaymentMethod{
 
             public void ReadTransactionDetails(){
                 Console.WriteLine();
-                Console.WriteLine("Order Number:{0} --- Order Id:{1}",OrderNumber,OrderId);
+                Console.WriteLine("Order Number:{0}",OrderNumber,OrderId);
                 Name = DataReaderHelper.ReadStringValue("Customer Name: ");
                 CardNumber = DataReaderHelper.ReadStringValue("Card Number: ");
                 CVV = DataReaderHelper.ReadStringValue("CVV: ");
             }
             
             public void DisplayTransactionDetails(){
-                Console.Clear();
-                Console.WriteLine("Successful Payment !");
-                Console.ReadLine();
+               
             }
 
             public void CallBackFunction(){
-                
+                Console.Clear();
+                Console.WriteLine("Successful Payment !");
+                Console.ReadLine();
               
             }
             public void InitTranzaction(){
@@ -37,7 +37,7 @@ namespace PaymentMethod{
                 OrderNumber = random.Next(100000);
                 OrderId = random.Next(100000);
                 ReadTransactionDetails();
-                DisplayTransactionDetails();
+                CallBackFunction();
                
 
 

@@ -17,13 +17,16 @@ using Lesson1;
             }
 
             public void CallBackFunction(){
-                
+                Console.Clear();
+                Console.WriteLine("Successful Payment !");
+                Console.ReadLine();
             }
             public void DisplayTransactionDetails(){
-                Console.WriteLine("Success payment!");
+                
             }
             public void InitTranzaction(){
                 ReadTransactionDetails();
+                CallBackFunction();
             }
      }
 

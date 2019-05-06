@@ -16,16 +16,12 @@ namespace Lesson3.UI
         public CustomerOrderController orderController;
         public readonly DataRepository repository;
         public Customer LoggedInCustomer = new Customer();
-        //BankPay payment = new BankPay();
         Menu paymentMenu = new Menu();
         private PaymentContainer container = new PaymentContainer();
         List<PaymentPlugin> PaymentPlugins = new List<PaymentPlugin>();    
 
         
-        /* public void HandlePayment(){
-            payment.InitTranzaction();
-        }
-        */
+      
         public void HandleCustomerLogin(){
             int ok = 0;
             int correctUser = 0;
@@ -297,8 +293,8 @@ namespace Lesson3.UI
             Menu newSellerMenu = new Menu();
 
  
-            mainMenu.SetMenuItem(1, "Seller accout", newCustomerMenu, () => HandleCustomerLogin());
-            mainMenu.SetMenuItem(2, "Customer accout",newSellerMenu, () => HandleSellerLogin());
+            mainMenu.SetMenuItem(1, "Customer accout", newCustomerMenu, () => HandleCustomerLogin());
+            mainMenu.SetMenuItem(2, "Seller accout",newSellerMenu, () => HandleSellerLogin());
 
             newCustomerMenu.OnPreRender = new Action( ()=> DisplayCustomerName());
             newCustomerMenu.SetMenuItem(1, "New Order", newOrderMenu, () => orderController.StartNewOrder(LoggedInCustomer));  
