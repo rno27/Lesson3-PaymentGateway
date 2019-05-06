@@ -207,20 +207,6 @@
           "bin/placeholder/Abstractions.dll": {}
         }
       },
-      "BankPayment/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Common": "1.0.0",
-          "OnlineShopModel": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/BankPayment.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BankPayment.dll": {}
-        }
-      },
       "Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -242,20 +228,6 @@
         },
         "runtime": {
           "bin/placeholder/OnlineShopModel.dll": {}
-        }
-      },
-      "PayPalMethod/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Common": "1.0.0",
-          "OnlineShopModel": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/PayPalMethod.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PayPalMethod.dll": {}
         }
       }
     }
@@ -735,11 +707,6 @@
       "path": "../Abstractions/Abstractions.csproj",
       "msbuildProject": "../Abstractions/Abstractions.csproj"
     },
-    "BankPayment/1.0.0": {
-      "type": "project",
-      "path": "../PaymentsMethods/BankPayment/BankPayment.csproj",
-      "msbuildProject": "../PaymentsMethods/BankPayment/BankPayment.csproj"
-    },
     "Common/1.0.0": {
       "type": "project",
       "path": "../Common/Common.csproj",
@@ -749,21 +716,14 @@
       "type": "project",
       "path": "../OnlineShopModel/OnlineShopModel.csproj",
       "msbuildProject": "../OnlineShopModel/OnlineShopModel.csproj"
-    },
-    "PayPalMethod/1.0.0": {
-      "type": "project",
-      "path": "../PaymentsMethods/PayPalMethod/PayPalMethod.csproj",
-      "msbuildProject": "../PaymentsMethods/PayPalMethod/PayPalMethod.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Abstractions >= 1.0.0",
-      "BankPayment >= 1.0.0",
       "Common >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
-      "OnlineShopModel >= 1.0.0",
-      "PayPalMethod >= 1.0.0"
+      "OnlineShopModel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -804,12 +764,6 @@
             },
             "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj": {
               "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\OnlineShopModel\\OnlineShopModel.csproj"
-            },
-            "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\BankPayment\\BankPayment.csproj": {
-              "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\BankPayment\\BankPayment.csproj"
-            },
-            "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj": {
-              "projectPath": "C:\\Users\\renato.ivanescu\\Desktop\\PaymentGateways\\Lesson3-PaymentGateways\\Lesson1\\PaymentsMethods\\PayPalMethod\\PayPalMethod.csproj"
             }
           }
         }

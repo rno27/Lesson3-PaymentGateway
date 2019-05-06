@@ -25,7 +25,7 @@ namespace PaymentMethod{
             public void DisplayTransactionDetails(){
                
             }
-
+            
             public void CallBackFunction(){
                 Console.Clear();
                 Console.WriteLine("Successful Payment !");
@@ -39,8 +39,6 @@ namespace PaymentMethod{
                 ReadTransactionDetails();
                 CallBackFunction();
                
-
-
             }
     }
 

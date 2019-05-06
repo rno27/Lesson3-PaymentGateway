@@ -13,6 +13,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Abstractions\Abstractions.csproj" />
+    <Content Include="ShapeContainer.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OnlineShopModel\OnlineShopModel.csproj" />
@@ -20,10 +21,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PaymentsMethods\BankPayment\BankPayment.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PaymentsMethods\PayPalMethod\PayPalMethod.csproj" />
-  </ItemGroup>
+  
+  
 </Project>

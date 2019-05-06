@@ -4,7 +4,7 @@ using System.Linq;
 using Abstractions;
 using Common;
 using Lesson1;
-using PaymentMethod;
+//using PaymentMethod;
 using System.Reflection;
 
 namespace Lesson3.UI
