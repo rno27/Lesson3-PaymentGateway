@@ -4,9 +4,9 @@ using Common;
 
 namespace PaymentMethod
 {
-    public class BankPayPlugin : GenericPlugin<BankPay>
+    public class MobilePayPlugin : GenericPlugin<MobilePay>
     {
-        public BankPayPlugin():base("Bank Pay")
+        public MobilePayPlugin():base("Mobile Pay")
         {
             
 
