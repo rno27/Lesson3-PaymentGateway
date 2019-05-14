@@ -38,3 +38,5 @@ C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1
 C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.csproj.CopyComplete
 C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.dll
 C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.pdb
+C:\Users\Renato\Source\Repos\Lesson3-PaymentGateways\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.dll
+C:\Users\Renato\Source\Repos\Lesson3-PaymentGateways\Lesson1\MainApp\obj\Debug\netcoreapp2.0\MainApp.pdb

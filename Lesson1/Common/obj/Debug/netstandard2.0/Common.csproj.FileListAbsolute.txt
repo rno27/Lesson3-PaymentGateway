@@ -22,3 +22,5 @@ C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1
 C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.csproj.CopyComplete
 C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.dll
 C:\Users\renato.ivanescu\Desktop\PaymentGateways\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Renato\Source\Repos\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Renato\Source\Repos\Lesson3-PaymentGateways\Lesson1\Common\obj\Debug\netstandard2.0\Common.pdb

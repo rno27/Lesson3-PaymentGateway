@@ -14,6 +14,7 @@ namespace Lesson3.UI
         
         static void Main(string[] args)
         {   
+            //ewfef
             DataRepository repository = new DataRepository();
             repository.Initialize();
             ConsoleMenuController menuController = new ConsoleMenuController(repository);
